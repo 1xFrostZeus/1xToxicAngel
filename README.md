@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm 1xToxicAngel</h1>
+<h1 align="center">Hi 👋, I'm 1xFrostZeus</h1>
 <h3 align="center">A video game & web devloper</h3>
 
-- All of my projects are available at [My Website](https://dev.1xtoxicangel.repl.co) 
+- All of my projects are available at [My Website](https://dev.1xfrostzeus.repl.co) 
 - Add me on discord? [Click Here](https://discord.com/users/660677147303739413) 
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1xToxicAngel&show_icons=true&theme=white&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1xFrostZeus&show_icons=true&theme=white&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 
@@ -21,7 +21,7 @@
 ------------
 **My Social Accounts:**
 
-<p align="left"> <a href="https://twitter.com/1xToxicAngel" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p><p align="left"> <a href="https://discord.gg/RDWRnr98b5" target="blank"><img alt="Discord" src="https://img.shields.io/badge/Join Us%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p><p align="left"> <a href="https://instagram.com/1xtoxicangel" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></p><p align="left"> <a href="https://m.youtube.com/channel/UCTFhTys_I2U4k1llyWR96Yg" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
+<p align="left"> <a href="https://twitter.com/1xFrostZeus" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p><p align="left"> <a href="https://discord.gg/RDWRnr98b5" target="blank"><img alt="Discord" src="https://img.shields.io/badge/Join Us%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p><p align="left"> <a href="https://instagram.com/1xfrostzeus" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></p><p align="left"> <a href="https://m.youtube.com/channel/UCTFhTys_I2U4k1llyWR96Yg" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
 
 
 
